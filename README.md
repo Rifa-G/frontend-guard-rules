@@ -51,3 +51,11 @@ Both exit non-zero on failure, so they drop straight into CI.
 ```bash
 npx skills add https://skills.sh/p/<pack-id>
 ```
+
+## Note on installing skills packs
+
+The `skills` CLI dereferences symlinks on install: a symlink inside a skill is
+materialized as a real file containing the target's contents. Since
+`.claude/skills/` is often committed, a pack shipping a symlink to `~/.ssh/id_rsa`
+or `.env` would land those contents in your working tree. This pack contains no
+symlinks — verified — but check any pack before installing it.
