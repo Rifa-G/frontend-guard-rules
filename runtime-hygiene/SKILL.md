@@ -29,6 +29,11 @@ Run the flow and watch for all five:
 node scripts/runtime-watch.mjs http://localhost:3000/your-route
 ```
 
+Playwright must be resolvable from the project root, since Node resolves it by
+walking up from the script location. If the script exits 2 saying playwright is
+not installed, run the install command above from your project root, not from
+inside the skill directory.
+
 Collects everything above from a real page load and prints a classified report,
 exiting non-zero if anything fired. Options:
 
