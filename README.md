@@ -2,7 +2,7 @@
 <img width="906" height="322" alt="frontend gaurd rails img" src="https://github.com/user-attachments/assets/96caa6ef-a554-4bc1-a3ac-5a3292070982" />
 
 
-seven skills for agents doing frontend work in React and Next.js.
+7 skills for agents doing frontend work in React and Next.js.
 
 i wrote these because i kept typing the same corrections to the same agents. hope it can be useful to somebody :).
 
