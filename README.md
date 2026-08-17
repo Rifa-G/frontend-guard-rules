@@ -1,5 +1,6 @@
 # Frontend Guard Rules
-![Uploading Screenshot 2026-08-17 at 7.31.55 PM.png…]()
+<img width="906" height="322" alt="frontend gaurd rails img" src="https://github.com/user-attachments/assets/96caa6ef-a554-4bc1-a3ac-5a3292070982" />
+
 
 Seven skills for agents doing frontend work in React and Next.js.
 
