@@ -2,11 +2,11 @@
 <img width="906" height="322" alt="frontend gaurd rails img" src="https://github.com/user-attachments/assets/96caa6ef-a554-4bc1-a3ac-5a3292070982" />
 
 
-Seven skills for agents doing frontend work in React and Next.js.
+seven skills for agents doing frontend work in React and Next.js.
 
-I wrote these because I kept typing the same corrections to the same agents. Hope it can be useful to somebody :).
+i wrote these because i kept typing the same corrections to the same agents. hope it can be useful to somebody :).
 
-One idea runs under all seven, which is that an agent does not get to call the work finished because it read its own code and the code looked right. It has to open the page and drive it.
+one idea runs through all seven skills, which is that an agent doesn't get to call the work finished because it read its own code and the code looked right --> it is forced to open the page and check that it implemented everything correctly.
 
 ## Install
 
